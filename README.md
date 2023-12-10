@@ -19,7 +19,7 @@ This project involves the design and implementation of an "Economic Impact" Visu
 - Numpy
 - Json
 
-##Run the streamlit app 
+## Run the streamlit app 
 `streamlit run Home.py`
 
 This project showcases adept data visualization, technical proficiency, and a comprehensive understanding of economic dynamics. Feel free to explore, analyze, and contribute to further enhancements.

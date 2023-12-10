@@ -507,4 +507,3 @@ dependencies:
       - xgboost==1.7.5
       - yarg==0.1.9
       - yfinance==0.2.24
-prefix: C:\Users\prasa\anaconda3
